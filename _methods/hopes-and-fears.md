@@ -42,7 +42,7 @@ This format can be adapted to include other categories. For example, asking part
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
 Hopes and Fears contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

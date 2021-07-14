@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Contextual inquiry
-permalink: /discover/contextual-inquiry/
+permalink: /discovery/contextual-inquiry/
 redirect_from:
   - /contextual-inquiry/
 description: The product team unobtrusively observes participants at work, with their permission, then asks questions.
-category: Discover
+category: Discovery
 what: The product team unobtrusively observes participants at work, with their permission, then asks questions.
 why: To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an <a href="https://methods.18f.gov/discover/stakeholder-and-user-interviews/" class="usa-link">interview</a> to map how tools, digital and otherwise, interact during complex activities.
 timeRequired: 1-2 hours per user
@@ -40,9 +40,8 @@ A pair of 18F team members visited two Department of Labor/Wage Hour Division in
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
+Contextual interviews contains no specific privacy implications. Interviews should be non-standardized, conversational, and based on observation.
 
-For internal folks, get permission from the right level of management. If participants could be under union agreements, contact the agency's labor relations team.
-</section>
+All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.

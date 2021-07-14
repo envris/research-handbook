@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Five whys
-permalink: /discover/five-whys/
+permalink: /discovery/five-whys/
 redirect_from:
   - /five-whys/
 description:
-category: Discover
+category: Discovery
 what: An iterative process for identifying the root cause of a problem by posing the question “Why?” at least five times to help separate symptoms from causes.
 
 why: To identify the root cause(s) of an issue or problem.
@@ -53,8 +53,8 @@ After getting to a root cause, frame or reframe your problem solving approach to
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. No information is collected from members of the public.
+Five Whys contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 
 </section>

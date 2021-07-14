@@ -1,13 +1,13 @@
 ---
 layout: card
 title: Dot voting
-permalink: /discover/dot-voting/
+permalink: /discovery/dot-voting/
 redirect_from:
-  - /discover/feature-dot-voting/
+  - /discovery/feature-dot-voting/
   - /feature-dot-voting/
   - /dot-voting/
 description: A simple voting exercise to identify a group's collective priorities.
-category: Discover
+category: Discovery
 what: A simple voting exercise to identify a group's collective priorities.
 why: To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with larger groups of stakeholders and groups with high risk of disagreement.
 timeRequired: 15 minutes
@@ -27,5 +27,5 @@ timeRequired: 15 minutes
 
 ## Considerations for use in government
 
-No PRA implications: dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for <a href="/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
+Dot Voting contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

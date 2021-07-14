@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Design studio
-permalink: /discover/design-studio/
+permalink: /discovery/design-studio/
 redirect_from:
   - /design-studio/
 description: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
-category: Discover
+category: Discovery
 what: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
 why: To create a shared understanding and appreciation of design problems confronting the project team.
 timeRequired: 3–4 hours
@@ -31,7 +31,7 @@ timeRequired: 3–4 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
+Design Studio contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

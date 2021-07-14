@@ -1,13 +1,13 @@
 ---
 layout: card
 title: Heuristic evaluation
-permalink: /discover/heuristic-evaluation/
+permalink: /discovery/heuristic-evaluation/
 redirect_from:
-  - /discover/heuristic-analysis/
+  - /discovery/heuristic-analysis/
   - /heuristic-evaluation/
   - /heuristic-analysis/
 description: A quick way to find common, large usability problems on a website.
-category: Discover
+category: Discovery
 what: A quick way to find common, large usability problems on a website.
 why: To quickly identify common design problems that make websites hard to use without conducting more involved user research.
 timeRequired: 1–2 hours
@@ -33,7 +33,7 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for <a href="/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
+Heuristic Evaluation contains no specific privacy implications as heuristic evaluations usually include a small number of evaluators. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

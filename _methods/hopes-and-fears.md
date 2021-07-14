@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Hopes and fears
-permalink: /discover/hopes-and-fears/
+permalink: /discovery/hopes-and-fears/
 redirect_from:
   - /hopes-and-fears/
 description: An exercise that quickly surfaces a group’s hopes and fears for the future
-category: Discover
+category: Discovery
 what: An exercise that quickly surfaces a group’s hopes and fears for the future
 why: To establish a baseline understanding of a group’s expectations and concerns about a project and to give each person an opportunity to voice their perspective
 
@@ -44,5 +44,5 @@ This format can be adapted to include other categories. For example, asking part
 
 ## Considerations for use in government
 
-No PRA implications. No information is collected from members of the public.
+Hopes and Fears contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

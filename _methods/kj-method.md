@@ -1,11 +1,11 @@
 ---
 layout: card
 title: KJ method
-permalink: /discover/kj-method/
+permalink: /discovery/kj-method/
 redirect_from:
   - /kj-method/
 description: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.
-category: Discover
+category: Discovery
 what: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.
 why: To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with larger groups of stakeholders and groups with high risk of disagreement.
 timeRequired: 1–2 hours
@@ -37,7 +37,9 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agency's Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies.
+At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not Departmentl employees, consult the Privacy Policy. The Office of General Counsel also can ensure you are following the laws and regulations applicable to Commonwealth agencies. 
+
+All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

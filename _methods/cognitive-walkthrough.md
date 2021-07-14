@@ -35,4 +35,4 @@ timeRequired: 30 minutes to one hour per person
 
 ## Considerations for use in DAWE
 
-Cognitive Walkthrough contains no specific privacy implications All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them. 
+Cognitive Walkthrough contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them. 

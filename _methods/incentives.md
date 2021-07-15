@@ -12,16 +12,13 @@ timeRequired: N/A
 ---
 ## How to do it
 
-1. Figure out what's legal and appropriate. Consult your agency's Office of General Counsel on options for providing incentives or gifts to encourage participation in usability testing, consistent with your agency's authorities. The options will depend upon your agency's authorities and the specific facts.
+1. Consult the Office of General Counsel on options for providing incentives or gifts to encourage participation in usability testing, consistent with your agency's authorities. The options will depend upon your agency's authorities and the specific facts.
 1. Consider contracting for a recruiting service to help you get an effective research pool.
 1. If incentives are determined to be permissible, clearly communicate when and how participants will receive incentives. In the emails, postings or other materials you use to recruit your participants, describe the incentive and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for "remote" research.
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in DAWE
 
-No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.  
-  
-If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
-
+The department adheres to the National Health and Medical Research Council (NHMRC) Guidelines, the Australian Privacy Principles (APPs) and the Privacy Act 1988. If you are using this research method, these guidelines and legislation may apply. Please seek assistance from the ResearchOps Team if further information or advice is required. You can contact us at: ResearchOps@awe.gov.au
 </section>

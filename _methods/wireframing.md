@@ -20,7 +20,7 @@ timeRequired: 1-3 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. No information is collected from members of the public.
+The department adheres to the National Health and Medical Research Council (NHMRC) Guidelines, the Australian Privacy Principles (APPs) and the Privacy Act 1988. If you are using this research method, these guidelines and legislation may apply. Please seek assistance from the ResearchOps Team if further information or advice is required. You can contact us at: ResearchOps@awe.gov.au
 </section>

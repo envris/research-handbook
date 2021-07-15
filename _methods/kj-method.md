@@ -39,7 +39,7 @@ timeRequired: 1–2 hours
 
 ## Considerations for use in DAWE
 
-At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not Departmentl employees, consult the Privacy Policy. The Office of General Counsel also can ensure you are following the laws and regulations applicable to Commonwealth agencies. 
+If there is any chance your KJ workshop could include participants who are not Departmental employees, consult the Privacy Policy. The Office of General Counsel also can ensure you are following the laws and regulations applicable to Commonwealth agencies. 
 
-All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
+The department adheres to the National Health and Medical Research Council (NHMRC) Guidelines, the Australian Privacy Principles (APPs) and the Privacy Act 1988. If you are using this research method, these guidelines and legislation may apply. Please seek assistance from the ResearchOps Team if further information or advice is required. You can contact us at: ResearchOps@awe.gov.au
 </section>

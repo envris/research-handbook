@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Stakeholder and user interviews
-permalink: /discover/stakeholder-and-user-interviews/
+permalink: /discovery/stakeholder-and-user-interviews/
 redirect_from:
   - /stakeholder-and-user-interviews/
 description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
-category: Discover
+category: Discovery
 what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
@@ -31,7 +31,7 @@ timeRequired: 1–2 hours per interviewee
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
+Stakeholder and user interviews contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

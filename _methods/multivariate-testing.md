@@ -29,7 +29,7 @@ timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing peri
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for <a href="/fundamentals/recruiting/#recruiting" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/#privacy" class="usa-link">Privacy</a> for more tips on taking input from the public.
+The department adheres to the National Health and Medical Research Council (NHMRC) Guidelines, the Australian Privacy Principles (APPs) and the Privacy Act 1988. If you are using this research method, these guidelines and legislation may apply. Please seek assistance from the ResearchOps Team if further information or advice is required. You can contact us at: ResearchOps@awe.gov.au
 </section>

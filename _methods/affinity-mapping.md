@@ -33,7 +33,7 @@ timeRequired: 1 hour
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
+Affinity Mapping contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 </section>

@@ -22,9 +22,23 @@ governmentConsiderations:
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
+## Research process resources
+### Planning
+To be added
 
-A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
 
 </section>
 

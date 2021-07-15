@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Lean coffee
-permalink: /discover/lean-coffee/
+permalink: /discovery/lean-coffee/
 redirect_from:
   - /lean-coffee/
 description: A format for running a meeting without a predefined agenda
-category: Discover
+category: Discovery
 what: A format for running a meeting without a predefined agenda
 why: To give everyone equal opportunity to surface ideas and vote on agenda topics,  allowing meeting attendees to be co-owners in the meeting agenda.
 timeRequired: Flexible
@@ -41,8 +41,8 @@ At 18F, Lean coffee is often used to facilitate community of practice meetings a
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government
+## Considerations for use in DAWE
 
-No PRA implications. No information is collected from members of the public.
+Lean Coffee contains no specific privacy implications. All Research activities in the department must comply with the APPs in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 
 </section>

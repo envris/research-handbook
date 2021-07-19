@@ -20,6 +20,26 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - Book: <a href="http://rosenfeldmedia.com/books/mental-models/" class="usa-link"><em>Mental Models: Aligning Design Strategy with Human Behavior.</em></a> Indi Young.

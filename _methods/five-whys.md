@@ -35,6 +35,26 @@ After getting to a root cause, frame or reframe your problem solving approach to
 
 *Note: You may ask “why” more or less than five times during this process. The purpose of this exercise is to help identify what is the root cause.  Ask “why” as many times as needed to get to what you think the root cause is.*
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 <!-- <section class="method--section method--section--18f-example" markdown="1" >
 ## Example from 18F
 

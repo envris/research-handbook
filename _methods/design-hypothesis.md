@@ -32,9 +32,29 @@ timeRequired: 1-2 hours
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
-- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/" class="usa-link">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
+<a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/" class="usa-link">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

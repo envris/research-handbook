@@ -20,6 +20,26 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
 - <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis" class="usa-link">Draft U.S. Web Design Standards Comparative Analysis</a>

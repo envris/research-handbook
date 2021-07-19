@@ -21,9 +21,29 @@ timeRequired: 2–3 hours
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
-- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
+<a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
 
 </section>
 

@@ -24,6 +24,26 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F  
 
 18F conducted this exercise with 20 Federal Election Commission staff members to define priorities around conflicting requests. We used this method to get data from staff (not the decision makers) about what they saw as the most pressing needs. We synthesized and presented the data back to the decision makers.
@@ -32,7 +52,7 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
-- <a href="https://articles.uie.com/kj_technique/" class="usa-link">"The KJ-Technique: A Group Process for Establishing Priorities."</a> Jared M. Spool
+<a href="https://articles.uie.com/kj_technique/" class="usa-link">"The KJ-Technique: A Group Process for Establishing Priorities."</a> Jared M. Spool
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

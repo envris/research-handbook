@@ -25,6 +25,26 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">"10 Usability Heuristics for User Interface Design."</a> Jakob Nielsen.

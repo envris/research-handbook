@@ -32,9 +32,29 @@ timeRequired: 3-8 hours
 
 <section class="method--section method--section--18f-example" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
-- <a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/" class="usa-link">"Content debt: What it is, where to find it, and how to prevent it in the first place"</a> Melody Kramer.
+<a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/" class="usa-link">"Content debt: What it is, where to find it, and how to prevent it in the first place"</a> Melody Kramer.
 
 </section>
 

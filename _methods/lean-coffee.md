@@ -25,6 +25,26 @@ governmentConsiderations:
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
 At 18F, Lean coffee is often used to facilitate community of practice meetings and team meetings when the objective is to provide a forum for the meeting attendees to raise issues that are of interest to them. This method provides structure to these meetings and ensures topics are democratically selected for conversation.
@@ -35,7 +55,7 @@ At 18F, Lean coffee is often used to facilitate community of practice meetings a
 
 ## Additional resources
 
-- <a href="http://agilecoffee.com/leancoffee/" class="usa-link">Extended description of Lean coffee</a> from Agile Coffee
+<a href="http://agilecoffee.com/leancoffee/" class="usa-link">Extended description of Lean coffee</a> from Agile Coffee
 
 </section>
 

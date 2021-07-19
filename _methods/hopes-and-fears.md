@@ -24,6 +24,27 @@ timeRequired: 30–60 mins
 This format can be adapted to include other categories. For example, asking participants to write down skills and experiences can help contextualize each person’s place in the group.
 
 <section class="method--section method--section--18f-example" markdown="1" >
+
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
 - <a href="https://18f.gsa.gov/2016/10/25/three-small-steps-you-can-take-to-reboot-agile-in-your-organization/" class="usa-link">Three small steps you can take to reboot agile in your organization</a>

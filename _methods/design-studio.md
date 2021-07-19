@@ -23,9 +23,29 @@ timeRequired: 3–4 hours
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
-- <a href="https://18f.gsa.gov/2014/09/25/design-studio-onrr/" class="usa-link">"User-centered design at 18F: a design studio for natural resource revenues"</a> Chris Cairns , Michelle Hertzfeld , Nick Bristow.
+<a href="https://18f.gsa.gov/2014/09/25/design-studio-onrr/" class="usa-link">"User-centered design at 18F: a design studio for natural resource revenues"</a> Chris Cairns , Michelle Hertzfeld , Nick Bristow.
 
 </section>
 

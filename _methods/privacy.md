@@ -19,6 +19,28 @@ timeRequired: N/A
   1. Pay special attention to all categories of information used throughout the design process. Note contexts in which it's not okay to share certain categories of information.
 
 <section class="method--section method--section--additional-resources" markdown="1">
+
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
+
 ## Additional resources
 
 - <a href="https://handbook.18f.gov/research-guidelines/" class="usa-link">Doing Research at 18F</a>

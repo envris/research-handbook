@@ -20,6 +20,26 @@ timeRequired: 1–2 days depending on how many rounds of feedback the team offer
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - Tool: <a href="http://styletil.es/" class="usa-link">Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.</a> Style Tiles.

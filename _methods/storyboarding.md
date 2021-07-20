@@ -21,6 +21,26 @@ timeRequired: 1–2 days depending on the complexity of the scenario(s)
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - Tool: <a href="http://www.servicedesigntools.org/tools/13" class="usa-link">Communication Methods Supporting Design Processes.</a> Service Design Tools.

@@ -21,6 +21,26 @@ timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing peri
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - <a href="http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/" class="usa-link">Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates. Paras Chopra.</a>

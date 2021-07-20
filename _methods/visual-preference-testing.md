@@ -24,6 +24,26 @@ timeRequired: |
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - <a href="http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php" class="usa-link">Rapid Desirability Testing: A Case Study.</a> Michael Hawley.

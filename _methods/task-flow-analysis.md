@@ -21,6 +21,26 @@ timeRequired: 2-3 hours per user goal
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Additional resources
 
 - <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips" class="usa-link">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Marine.</a>

@@ -28,6 +28,26 @@ timeRequired: 1–2 weeks for 5–10 participants
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Considerations for use in DAWE 
 
 The department adheres to the National Health and Medical Research Council (NHMRC) Guidelines, the Australian Privacy Principles (APPs) and the Privacy Act 1988. If you are using this research method, these guidelines and legislation may apply. Please seek assistance from the ResearchOps Team if further information or advice is required. You can contact us at: ResearchOps@awe.gov.au

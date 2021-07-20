@@ -21,6 +21,26 @@ timeRequired: 30 minutes to 1 hour per test
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
+## Research process resources
+### Planning
+To be added
+
+### Doing
+To be added
+
+### Analysing & Synthesising
+To be added
+
+### Applying & Sharing
+To be added
+
+
+## Example from DAWE
+
+To be added
+
+</section>
+
 ## Example from 18F
 
 - <a href="https://github.com/18F/doi-extractives-data/tree/research/research" class="usa-link">Usability testing plans from 18F's Extractive Industries Transparency Initiative project with Department of the Interior</a>
@@ -31,6 +51,7 @@ timeRequired: 30 minutes to 1 hour per test
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
+
 
 ## Additional resources
 

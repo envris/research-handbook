@@ -54,7 +54,7 @@ To be added
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in DAWE
+## Considerations for use in DAWE.
 
 Interviews should be non-standardized, conversational, and based on observation.
 

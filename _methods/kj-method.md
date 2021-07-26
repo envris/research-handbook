@@ -57,7 +57,7 @@ To be added
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in DAWE
+## Considerations for use in DAWE.
 
 If there is any chance your KJ workshop could include participants who are not Departmental employees, consult the Privacy Policy. The Office of General Counsel also can ensure you are following the laws and regulations applicable to Commonwealth agencies. 
 

@@ -41,20 +41,12 @@ To be added
 
 </section>
 
-## Example from 18F
+
+## Additional resources
 
 - <a href="https://github.com/18F/doi-extractives-data/tree/research/research" class="usa-link">Usability testing plans from 18F's Extractive Industries Transparency Initiative project with Department of the Interior</a>
 - <a href="https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/" class="usa-link">Introduction to remote moderated usability testing, part 1&#58; What and why</a>
 - <a href="https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/" class="usa-link">Introduction to remote moderated usability testing, part 2&#58; How</a>
-
-
-</section>
-
-<section class="method--section method--section--additional-resources" markdown="1">
-
-
-## Additional resources
-
 - Example Design Research Participant Agreement (<a href="(/participant-agreement/" class="usa-link">English</a>/<a href="/participant-agreement-spanish/" class="usa-link">Spanish</a>)
 - <a href="/interview-checklist/" class="usa-link">Interview checklist</a>
 - <a href="/usability-test-script/" class="usa-link">Example usability test script</a>

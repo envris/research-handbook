@@ -45,16 +45,10 @@ To be added
 
 </section>
 
-## Example from 18F
-
-- <a href="https://18f.gsa.gov/2016/10/25/three-small-steps-you-can-take-to-reboot-agile-in-your-organization/" class="usa-link">Three small steps you can take to reboot agile in your organization</a>
-
-</section>
-
-<section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
+- <a href="https://18f.gsa.gov/2016/10/25/three-small-steps-you-can-take-to-reboot-agile-in-your-organization/" class="usa-link">Three small steps you can take to reboot agile in your organization</a>
 - Step-by-step with images from <a href="https://www.ibm.com/design/thinking/page/toolkit/activity/hopes-and-fears" class="usa-link">ibm.com</a>
 - Video tutorial from <a href="https://www.freshtilledsoil.com/design-sprint-shorts-episode-6-hopes-and-fears/" class="usa-link">freshtilledsoil.com</a>
 - Detailed instructions from <a href="https://www.iamnotmypixels.com/design-sprints-hopes-and-fears/" class="usa-link">iamnotmypixels.com</a>

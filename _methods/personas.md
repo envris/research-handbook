@@ -41,16 +41,10 @@ To be added
 
 </section>
 
-## Example from 18F
-
-<a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
-
-</section>
-
-<section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
+- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
 - <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving Customer Experience with Digital Personas.</a> Archivist of the United States.
 - <a href="https://articles.uie.com/perfecting_personas/">Perfecting Your Personas.</a> Kim Goodwin.
 - <a href="https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/">Personas for Accessible UX.</a> Whitney Quesenbery.

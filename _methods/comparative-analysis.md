@@ -40,7 +40,7 @@ To be added
 
 </section>
 
-## Example from 18F
+## Additional resources
 
 - <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis" class="usa-link">Draft U.S. Web Design Standards Comparative Analysis</a>
 
